@@ -1,5 +1,5 @@
 """
-URL configuration for my_tennis_club project.
+URL configuration for app_configurator project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.2/topics/http/urls/
